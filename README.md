@@ -4,7 +4,6 @@
 
 ### Rafael Valle, Kevin Shih, Ryan Prenger and Bryan Catanzaro
 
-
 W naszym ostatnim [paper] proponujemy Flowtron: autoregresyjną sieć generatywną
 opartą na przepływach generatywną sieć do syntezy tekstu na mowę z kontrolą
 zmiennością mowy i transferem stylu. Flowtron zapożycza wiedzę z przepływów autoregresyjnych
@@ -22,14 +21,14 @@ mówcami widzianymi i niewidzianymi podczas treningu.
 Odwiedź naszą [website], by posłuchać przykładowych próbek dźwiękowych.
 
 
-## Related repos
+## Powiązane repozytoria
 [WaveGlow](https://github.com/NVIDIA/WaveGlow) Szybsza niż w czasie rzeczywistym
 sieć generatywna oparta na przepływie do syntezy mowy
 
-## Acknowledgements
+## Podziękowanie
 Ta implementacja używa kodu z następujących repozytoriów: [Keith
 Ito](https://github.com/keithito/tacotron/), [Prem
-Seetharaman](https://github.com/pseeth/pytorch-stft) and [Liyuan Liu](https://github.com/LiyuanLucasLiu/RAdam) as described in our code.
+Seetharaman](https://github.com/pseeth/pytorch-stft) i [Liyuan Liu](https://github.com/LiyuanLucasLiu/RAdam) zgodnie z opisem w naszym kodzie.
 
 [ignored]: https://github.com/NVIDIA/flowtron/config.json#L12
 [paper]: https://arxiv.org/abs/2005.05957
