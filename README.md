@@ -4,7 +4,7 @@
 
 ### Rafael Valle, Kevin Shih, Ryan Prenger and Bryan Catanzaro
 
-W naszym ostatnim [paper] proponujemy Flowtron: autoregresyjną sieć generatywną
+W naszym ostatnim [artykule] proponujemy Flowtron: autoregresyjną sieć generatywną
 opartą na przepływach generatywną sieć do syntezy tekstu na mowę z kontrolą
 zmiennością mowy i transferem stylu. Flowtron zapożycza wiedzę z przepływów autoregresyjnych
 i przekształca [Tacotron] w celu zapewnienia wysokiej jakości i ekspresyjnej syntezy mel-spektrogramu.
@@ -18,7 +18,7 @@ pod względem jakości mowy. Ponadto, przedstawiamy wyniki dotyczące kontroli
 zmienności mowy, interpolacji między próbkami i transferu stylu między
 mówcami widzianymi i niewidzianymi podczas treningu.
 
-Odwiedź naszą [website], by posłuchać przykładowych próbek dźwiękowych.
+Odwiedź naszą [stronę], by posłuchać przykładowych próbek dźwiękowych.
 
 
 ## Powiązane repozytoria
@@ -31,12 +31,12 @@ Ito](https://github.com/keithito/tacotron/), [Prem
 Seetharaman](https://github.com/pseeth/pytorch-stft) i [Liyuan Liu](https://github.com/LiyuanLucasLiu/RAdam) zgodnie z opisem w naszym kodzie.
 
 [ignored]: https://github.com/NVIDIA/flowtron/config.json#L12
-[paper]: https://arxiv.org/abs/2005.05957
+[artykule]: https://arxiv.org/abs/2005.05957
 [Flowtron LJS]: https://drive.google.com/open?id=1Cjd6dK_eFz6DE0PKXKgKxrzTUqzzUDW-
 [Flowtron LibriTTS]: https://drive.google.com/open?id=1KhJcPawFgmfvwV7tQAOeC253rYstLrs8
 [Flowtron LibriTTS2K]: https://drive.google.com/open?id=1sKTImKkU0Cmlhjc_OeUDLrOLIXvUPwnO
 [WaveGlow]: https://drive.google.com/open?id=1rpK8CzAAirq9sWZhe9nlfvxMF1dRgFbF
 [PyTorch]: https://github.com/pytorch/pytorch#installation
-[website]: https://nv-adlr.github.io/Flowtron
+[stronę]: https://nv-adlr.github.io/Flowtron
 [AMP]: https://github.com/NVIDIA/apex/tree/master/apex/amp
 [Tacotron]: https://arxiv.org/abs/1712.05884
