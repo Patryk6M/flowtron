@@ -2,7 +2,7 @@
 
 ## Flowtron: Autoregresyjna sieć oparta na przepływie do syntezy tekstu na spektrogramy Mel
 
-### Rafael Valle, Kevin Shih, Ryan Prenger and Bryan Catanzaro
+### Rafael Valle, Kevin Shih, Ryan Prenger i Bryan Catanzaro
 
 W naszej ostatnim [artykule] proponujemy Flowtron: autoregresyjną sieć generatywną 
 opartą na przepływach do syntezy z kontrolą zmienności mowy i przeniesienia stylu.
