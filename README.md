@@ -5,8 +5,8 @@
 ### Rafael Valle, Kevin Shih, Ryan Prenger and Bryan Catanzaro
 
 W naszej ostatnim [artykule] proponujemy Flowtron: autoregresyjną sieć generatywną 
-opartą na przepływach do syntezy mowy z kontrolą zmienności mowy i przeniesienia stylu.
-Flowtron czerpie z wiedzy o przepływach autoregresywnych i przekształca [Tacotron]
+opartą na przepływach do syntezy z kontrolą zmienności mowy i przeniesienia stylu.
+Flowtron czerpie z wiedzę o przepływach autoregresywnych i przekształca [Tacotron]
 w celu zapewnienia wysokiej jakości i ekspresyjnej syntezy mel-spektrogramów.
 Flowtron jest optymalizowany poprzez maksymalizację prawdopodobieństwa danych treningowych,
 co sprawia, że trening jest prosty i stabilny. Flowtron uczy się odwracalnego odwzorowania danych
